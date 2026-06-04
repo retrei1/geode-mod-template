@@ -1,4 +1,3 @@
-# Geode Mod Template
 
 ## 🌐 Choose language / Выберите язык
 
