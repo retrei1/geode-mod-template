@@ -1,0 +1,23 @@
+{
+    "geode": "5.7.1",
+    "gd": {
+        "win": "2.2081",
+        "android": "2.2081"
+    },
+    "version": "v1.0.0",
+    "id": "your.name.mod",
+    "name": "Your Mod Name",
+    "developer": "YourName",
+    "description": "Description of your mod",
+    "links": {
+        "source": "https://github.com/YourName/your-mod-repo"
+    },
+    "settings": {
+        "example-setting": {
+            "name": "Example Setting",
+            "description": "This is an example setting",
+            "type": "bool",
+            "default": false
+        }
+    }
+}
