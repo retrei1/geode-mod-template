@@ -10,4 +10,4 @@
 
 If you have any questions or find a bug, please open an issue on GitHub:
 
-[Create issue](https://github.com/retrei1/geode-mod-template/issue
+[Create issue](https://github.com/retrei1/geode-mod-template/issue)
